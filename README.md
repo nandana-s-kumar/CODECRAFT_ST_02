@@ -43,3 +43,44 @@ compatibility test
 **Status:**
 Fail
 
+---
+
+## Test Case 2
+
+**Test Case ID:** TC_COMP_002  
+**Test Description:** Verify website compatibility on Firefox browser (Desktop)
+
+**Preconditions:**
+- Firefox browser installed
+- Internet connection available
+- Demo site URL accessible
+
+**Test Steps:**
+1. Open Firefox browser
+2. Navigate to https://shoplane-by-lassie.netlify.app/
+3. Observe page layout and UI elements
+4. Click on product item
+5. Add product to cart
+6. Check images loading
+7. Click navigation links
+8. Observe banner behavior
+
+**Expected Result:**
+- Website loads without layout issues
+- Images load properly
+- Links navigate correctly
+- Banner works
+- Cart functionality works
+
+**Actual Result:**
+- UI layout displays correctly
+- Some links are broken
+- Images are not loading properly
+- Clicking product works
+- Add to cart works correctly
+- Banner interaction not working
+
+**Status:**
+fail
+
+
