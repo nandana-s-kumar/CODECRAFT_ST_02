@@ -17,9 +17,14 @@ compatibility test
 
 ## Test Case 01 — Chrome Desktop
 
+**Test Case ID:** TC_COMP_001  
 **Description:** Verify website layout and functionality in Chrome browser on Desktop
 
-**Steps:**
+**Preconditions:**
+- Chrome browser installed
+- Internet connection available
+- Demo site URL accessible
+**Test Steps:**
 1. Open Chrome
 2. Navigate to website URL
 3. Browse homepage
