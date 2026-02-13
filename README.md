@@ -87,5 +87,44 @@ Fail
 
 **Status:**
 fail
+----
+---
+
+## Test Case 3
+
+**Test Case ID:** TC_COMP_003  
+**Test Description:** Verify website responsiveness on mobile device
+
+**Preconditions:**
+- Mobile phone available
+- Internet connection enabled
+
+**Test Steps:**
+1. Open browser on mobile phone
+2. Navigate to https://shoplane-by-lassie.netlify.app/
+3. Observe homepage layout
+4. Scroll through page
+5. Open product
+6. Add product to cart
+7. Check menu navigation
+
+**Expected Result:**
+- Layout adjusts to mobile screen
+- Text readable
+- Images fit screen
+- Navigation usable
+- Cart works properly
+
+**Actual Result:**
+- UI layout displays correctly
+- Some links are broken
+- Images are not loading properly
+- Clicking product works
+- Add to cart works correctly
+- Banner interaction not working
+
+
+**Status:**
+Failed
 
 
