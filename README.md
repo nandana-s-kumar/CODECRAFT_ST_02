@@ -35,14 +35,14 @@ compatibility test
 - Layout displays correctly
 - Images load properly
 - Links work
-- Cart functions correctly
+- Cart functions correctly 
 
 **Actual Result:**
 - UI layout displays correctly
 - Some links are broken
 - Images are not loading properly
 - Clicking product works
-- Add to cart works correctly
+- Add to cart works correctly but icon not visible
 - Banner interaction not working
 
 **Status:**
@@ -75,14 +75,14 @@ Fail
 - Images load properly
 - Links navigate correctly
 - Banner works
-- Cart functionality works
+- Cart functionality works 
 
 **Actual Result:**
 - UI layout displays correctly
 - Some links are broken
 - Images are not loading properly
 - Clicking product works
-- Add to cart works correctly
+- Add to cart works correctly but icon not visible
 - Banner interaction not working
 
 **Status:**
@@ -113,14 +113,14 @@ fail
 - Text readable
 - Images fit screen
 - Navigation usable
-- Cart works properly
+- Cart works properly 
 
 **Actual Result:**
 - UI layout displays correctly
 - Some links are broken
 - Images are not loading properly
 - Clicking product works
-- Add to cart works correctly
+- Add to cart works correctly but icon not visible
 - Banner interaction not working
 
 
