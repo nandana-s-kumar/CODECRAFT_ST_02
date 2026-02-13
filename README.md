@@ -127,4 +127,33 @@ fail
 **Status:**
 Failed
 
+---
+
+## Test Case 4
+
+**Test Case ID:** TC_COMP_004  
+**Test Description:** Verify website for broken links
+
+**Preconditions:**
+- Website accessible
+- Internet connection available
+
+**Test Steps:**
+1. Open website
+2. Click navigation links
+3. Click product links
+4. Click banner links
+5. Observe page loading
+
+**Expected Result:**
+- All links should navigate correctly
+- No 404 or blank pages
+- Proper redirection
+
+**Actual Result:**
+- Some links redirect to non-working pages
+- Broken navigation observed
+
+**Status:**
+Fail
 
